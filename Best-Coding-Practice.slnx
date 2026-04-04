@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="CleanCodeDemo.Console/CleanCodeDemo.Console.csproj" />
   <Project Path="CleanInitializationDemo.Console/CleanInitializationDemo.Console.csproj" />
   <Project Path="CurlyBracesDemo.Console/CurlyBracesDemo.Console.csproj" />
   <Project Path="DefaultValuesDemo.Console/DefaultValuesDemo.Console.csproj" />
