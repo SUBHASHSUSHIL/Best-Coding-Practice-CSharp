@@ -6,6 +6,7 @@
   <Project Path="DefaultValuesDemo.Console/DefaultValuesDemo.Console.csproj" />
   <Project Path="EnumDemo.Console/EnumDemo.Console.csproj" />
   <Project Path="IfStatementOptimizationDemo.Console/IfStatementOptimizationDemo.Console.csproj" Id="5686b33f-78e7-41e8-8eb1-957d405f9dc8" />
+  <Project Path="IfVsSwitchDemo.Console/IfVsSwitchDemo.Console.csproj" Id="cc0c5258-41d5-4a86-9978-b19c83dcae4b" />
   <Project Path="LooseCouplingDemo.Console/LooseCouplingDemo.Console.csproj" />
   <Project Path="MethodParameterDemo.Console/MethodParameterDemo.Console.csproj" Id="9d39bb79-fee2-4ec8-9730-59e0b99d1c67" />
   <Project Path="ParentChildDemo.Console/ParentChildDemo.Console.csproj" />
