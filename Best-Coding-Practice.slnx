@@ -24,6 +24,7 @@
   <Project Path="SealedClassDemo.Console/SealedClassDemo.Console.csproj" />
   <Project Path="SwitchRefactoringDemo.Console/SwitchRefactoringDemo.Console.csproj" Id="438b7ced-ff50-43a5-b22f-a85df49870e8" />
   <Project Path="SwitchVsDictionaryDemo.Console/SwitchVsDictionaryDemo.Console.csproj" Id="e51cf112-2cd1-462b-b0d8-74fbef128c87" />
+  <Project Path="TernaryVsIfElseDemo.Console/TernaryVsIfElseDemo.Console.csproj" Id="e38e885a-b6b9-490e-b682-1f541631bcb6" />
   <Project Path="TodoFixmeDemo.Console/TodoFixmeDemo.Console.csproj" />
   <Project Path="VariableDeclarationDemo.Console/VariableDeclarationDemo.Console.csproj" />
 </Solution>
