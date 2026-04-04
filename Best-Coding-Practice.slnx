@@ -13,6 +13,7 @@
   <Project Path="ReadableCodeDemo.Console/ReadableCodeDemo.Console.csproj" />
   <Project Path="RegionDemo.Console/RegionDemo.Console.csproj" />
   <Project Path="SealedClassDemo.Console/SealedClassDemo.Console.csproj" />
+  <Project Path="SwitchVsDictionaryDemo.Console/SwitchVsDictionaryDemo.Console.csproj" Id="e51cf112-2cd1-462b-b0d8-74fbef128c87" />
   <Project Path="TodoFixmeDemo.Console/TodoFixmeDemo.Console.csproj" />
   <Project Path="VariableDeclarationDemo.Console/VariableDeclarationDemo.Console.csproj" />
 </Solution>
