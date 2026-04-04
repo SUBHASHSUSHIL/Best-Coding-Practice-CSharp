@@ -5,4 +5,5 @@
   <Project Path="LooseCouplingDemo.Console/LooseCouplingDemo.Console.csproj" />
   <Project Path="ParentChildDemo.Console/ParentChildDemo.Console.csproj" />
   <Project Path="RegionDemo.Console/RegionDemo.Console.csproj" />
+  <Project Path="TodoFixmeDemo.Console/TodoFixmeDemo.Console.csproj" />
 </Solution>
