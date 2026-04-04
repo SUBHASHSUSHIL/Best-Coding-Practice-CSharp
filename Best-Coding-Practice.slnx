@@ -7,4 +7,5 @@
   <Project Path="PropertiesConstructorDemo.Console/PropertiesConstructorDemo.Console.csproj" />
   <Project Path="RegionDemo.Console/RegionDemo.Console.csproj" />
   <Project Path="TodoFixmeDemo.Console/TodoFixmeDemo.Console.csproj" />
+  <Project Path="VariableDeclarationDemo.Console/VariableDeclarationDemo.Console.csproj" />
 </Solution>
