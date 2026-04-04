@@ -8,6 +8,7 @@
   <Project Path="LooseCouplingDemo.Console/LooseCouplingDemo.Console.csproj" />
   <Project Path="ParentChildDemo.Console/ParentChildDemo.Console.csproj" />
   <Project Path="PropertiesConstructorDemo.Console/PropertiesConstructorDemo.Console.csproj" />
+  <Project Path="ReadableCodeDemo.Console/ReadableCodeDemo.Console.csproj" />
   <Project Path="RegionDemo.Console/RegionDemo.Console.csproj" />
   <Project Path="SealedClassDemo.Console/SealedClassDemo.Console.csproj" />
   <Project Path="TodoFixmeDemo.Console/TodoFixmeDemo.Console.csproj" />
