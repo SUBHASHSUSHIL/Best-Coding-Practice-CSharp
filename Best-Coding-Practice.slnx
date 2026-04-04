@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="CurlyBracesDemo.Console/CurlyBracesDemo.Console.csproj" />
   <Project Path="DefaultValuesDemo.Console/DefaultValuesDemo.Console.csproj" />
   <Project Path="EnumDemo.Console/EnumDemo.Console.csproj" />
   <Project Path="LooseCouplingDemo.Console/LooseCouplingDemo.Console.csproj" />
