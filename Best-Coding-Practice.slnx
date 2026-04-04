@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="EnumDemo.Console/EnumDemo.Console.csproj" />
+  <Project Path="LooseCouplingDemo.Console/LooseCouplingDemo.Console.csproj" />
   <Project Path="ParentChildDemo.Console/ParentChildDemo.Console.csproj" />
   <Project Path="RegionDemo.Console/RegionDemo.Console.csproj" />
 </Solution>
