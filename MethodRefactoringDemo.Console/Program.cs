@@ -14,7 +14,7 @@
             // payment
             // logging
             // email sending
-            // 50+ lines 😵
+            // 50+ lines
         }
 
         // Best Practice (Refactored method)
