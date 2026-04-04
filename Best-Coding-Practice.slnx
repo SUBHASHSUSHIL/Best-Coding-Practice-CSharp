@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="AbstractClassDemo.Console/AbstractClassDemo.Console.csproj" />
+  <Project Path="AsyncNamingDemo.Console/AsyncNamingDemo.Console.csproj" Id="a383b900-66ec-468a-a0e9-e02c4a8adfa5" />
   <Project Path="CleanCodeDemo.Console/CleanCodeDemo.Console.csproj" />
   <Project Path="CleanInitializationDemo.Console/CleanInitializationDemo.Console.csproj" />
   <Project Path="CurlyBracesDemo.Console/CurlyBracesDemo.Console.csproj" />
