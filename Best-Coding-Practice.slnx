@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="ParentChildDemo.Console/ParentChildDemo.Console.csproj" />
+</Solution>
