@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="AbstractClassDemo.Console/AbstractClassDemo.Console.csproj" />
+  <Project Path="AbstractClassDesignDemo.Console/AbstractClassDesignDemo.Console.csproj" Id="b067f089-2025-408b-be07-236bb5a80a82" />
   <Project Path="AsyncNamingDemo.Console/AsyncNamingDemo.Console.csproj" Id="a383b900-66ec-468a-a0e9-e02c4a8adfa5" />
   <Project Path="AutoPropertyDemo.Console/AutoPropertyDemo.Console.csproj" Id="9362a03c-a4e8-4b77-86f4-57a799f9f6c8" />
   <Project Path="CleanCodeDemo.Console/CleanCodeDemo.Console.csproj" />
