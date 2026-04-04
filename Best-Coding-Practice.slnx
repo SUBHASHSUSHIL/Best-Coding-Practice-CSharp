@@ -11,6 +11,7 @@
   <Project Path="IfVsSwitchDemo.Console/IfVsSwitchDemo.Console.csproj" Id="cc0c5258-41d5-4a86-9978-b19c83dcae4b" />
   <Project Path="LooseCouplingDemo.Console/LooseCouplingDemo.Console.csproj" />
   <Project Path="MethodParameterDemo.Console/MethodParameterDemo.Console.csproj" Id="9d39bb79-fee2-4ec8-9730-59e0b99d1c67" />
+  <Project Path="NamingConventionDemo.Console/NamingConventionDemo.Console.csproj" Id="0387f677-989b-4860-9eff-9a5607506a34" />
   <Project Path="ParentChildDemo.Console/ParentChildDemo.Console.csproj" />
   <Project Path="PropertiesConstructorDemo.Console/PropertiesConstructorDemo.Console.csproj" />
   <Project Path="ReadableCodeDemo.Console/ReadableCodeDemo.Console.csproj" />
