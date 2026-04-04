@@ -7,6 +7,7 @@
   <Project Path="DefaultValuesDemo.Console/DefaultValuesDemo.Console.csproj" />
   <Project Path="EnumDemo.Console/EnumDemo.Console.csproj" />
   <Project Path="ExceptionHandlingDemo.Console/ExceptionHandlingDemo.Console.csproj" Id="63aa937d-eb72-47b7-bfa3-650e7adbf904" />
+  <Project Path="FieldVsPropertyDemo.Console/FieldVsPropertyDemo.Console.csproj" Id="d996de36-94a2-427b-8335-61fcd20c2485" />
   <Project Path="IfStatementOptimizationDemo.Console/IfStatementOptimizationDemo.Console.csproj" Id="5686b33f-78e7-41e8-8eb1-957d405f9dc8" />
   <Project Path="IfVsSwitchDemo.Console/IfVsSwitchDemo.Console.csproj" Id="cc0c5258-41d5-4a86-9978-b19c83dcae4b" />
   <Project Path="LooseCouplingDemo.Console/LooseCouplingDemo.Console.csproj" />
