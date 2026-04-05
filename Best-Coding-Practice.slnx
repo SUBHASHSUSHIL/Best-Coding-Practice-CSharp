@@ -7,6 +7,7 @@
   <Project Path="CleanInitializationDemo.Console/CleanInitializationDemo.Console.csproj" />
   <Project Path="CurlyBracesDemo.Console/CurlyBracesDemo.Console.csproj" />
   <Project Path="DefaultValuesDemo.Console/DefaultValuesDemo.Console.csproj" />
+  <Project Path="DependencyInjectionDemo.Console/DependencyInjectionDemo.Console.csproj" Id="5e97e130-cdfb-41ec-b2ce-663592d8c325" />
   <Project Path="EnumDemo.Console/EnumDemo.Console.csproj" />
   <Project Path="ExceptionHandlingDemo.Console/ExceptionHandlingDemo.Console.csproj" Id="63aa937d-eb72-47b7-bfa3-650e7adbf904" />
   <Project Path="FieldVsPropertyDemo.Console/FieldVsPropertyDemo.Console.csproj" Id="d996de36-94a2-427b-8335-61fcd20c2485" />
