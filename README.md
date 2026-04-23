@@ -97,12 +97,6 @@ The goal is to write **clean, readable, maintainable, and professional code**.
 
 ---
 
-## 👨‍💻 Author
-
-**Sushil Thakur**
-
----
-
 ## ⭐ How to Run
 
 1. Clone the repository
