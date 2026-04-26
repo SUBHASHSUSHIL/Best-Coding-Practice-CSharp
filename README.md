@@ -110,3 +110,4 @@ The goal is to write **clean, readable, maintainable, and professional code**.
 * Add SOLID principles examples
 * Add real-world project structure
 * Add unit testing
+* And other 
