@@ -1,4 +1,4 @@
-# 🚀 Clean Best Code Practices (C# Console)
+# Clean Best Code Practices (C# Console)
 
 This project demonstrates **best coding practices in C#** with simple, self-contained console examples.
 The goal is to write **clean, readable, maintainable, and professional code**.
@@ -7,7 +7,7 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-## 📌 All Demo Projects
+## All Demo Projects
 
 | # | Project | What It Demonstrates |
 |---|---------|----------------------|
@@ -45,9 +45,9 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-## 📂 Topics by Category
+## Topics by Category
 
-### 🧱 OOP & Design Principles
+### OOP & Design Principles
 
 * Parent-Child (Inheritance)
 * Encapsulation (Properties vs Fields)
@@ -59,7 +59,7 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-### 🧹 Clean Code Practices
+### Clean Code Practices
 
 * Avoid long methods (Method Refactoring)
 * Avoid too many method parameters
@@ -74,7 +74,7 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-### 🏷️ Naming Conventions
+### Naming Conventions
 
 * Use PascalCase for Classes, Methods, Properties
 * Use meaningful variable names
@@ -83,7 +83,7 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-### ⚙️ Properties & Fields
+### Properties & Fields
 
 * Never use public fields
 * Use auto-implemented properties
@@ -94,7 +94,7 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-### 🧠 Control Flow Best Practices
+### Control Flow Best Practices
 
 * Use if-else vs switch appropriately
 * Merge nested if statements for readability
@@ -103,14 +103,14 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-### ⚠️ Error Handling
+### Error Handling
 
 * Never leave empty catch blocks
 * Proper exception handling and logging
 
 ---
 
-### 🛠️ Code Quality Rules
+### Code Quality Rules
 
 * Avoid commented-out code
 * Track TODO and FIXME properly
@@ -120,7 +120,7 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-### 🔑 Miscellaneous
+### Miscellaneous
 
 * Avoid using `new Guid()` → use `Guid.NewGuid()`
 * Use enum properly with integer values
@@ -128,7 +128,7 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-## 🎯 Purpose of this Project
+## Purpose of this Project
 
 * Improve coding standards
 * Write professional-level code
@@ -137,13 +137,13 @@ Each topic lives in its own console project so you can read, run, and experiment
 
 ---
 
-## 🧠 Key Learning
+## Key Learning
 
 > "Clean code is not about writing less code, it's about writing **better code**."
 
 ---
 
-## ⭐ How to Run
+## How to Run
 
 ### Prerequisites
 
@@ -173,7 +173,7 @@ dotnet build Best-Coding-Practice.slnx
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Add SOLID principles examples
 * Add real-world project structure
